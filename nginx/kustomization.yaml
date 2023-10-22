@@ -6,7 +6,7 @@ resources:
   - nginx-service.yaml
 
 commonAnnotations: 
-   owner: bob@gmail.com
+   owner: priyanshuyadav@gmail.com
 
 images:
   - name: nginx
